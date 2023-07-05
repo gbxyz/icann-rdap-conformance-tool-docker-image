@@ -11,7 +11,7 @@ on:
 
 env:
   OWNER: gbxyz
-  IMAGE_NAME: icann-rdap-conformance-tool-docker-image
+  IMAGE_NAME: rdapct
 
 jobs:
   build:

@@ -7,9 +7,9 @@ This tool is written in Java and binaries are not provided, so those wishing to 
 This repository contains a Docker image allowing easy use of the tool:
 
 ```
-$ docker run --rm -it gbxyz/icann-rdap-conformance-tool "https://rdap.example.com/rdap/domain/example.com"
+$ docker run --rm -it gbxyz/rdapct "https://rdap.example.com/rdap/domain/example.com"
 ```
 
 GitHub repository: https://github.com/gbxyz/icann-rdap-conformance-tool-docker-image/
 
-Docker Hub Image: https://hub.docker.com/repository/docker/gbxyz/icann-rdap-conformance-tool-docker-image
+Docker Hub Image: https://hub.docker.com/repository/docker/gbxyz/rdapct
